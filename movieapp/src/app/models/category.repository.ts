@@ -6,9 +6,9 @@ export class CategoryRepository {
   constructor() {
     this.categories = [
       {id: 1, name: "macera"},
-      {id: 1, name: "romantik"},
-      {id: 1, name: "bilim kurgu"},
-      {id: 1, name: "komedi"}
+      {id: 2, name: "romantik"},
+      {id: 3, name: "bilim kurgu"},
+      {id: 4, name: "komedi"}
     ];
   }
 
